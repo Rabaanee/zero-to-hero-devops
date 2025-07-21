@@ -2,7 +2,7 @@
 
 Welcome to my DevOps learning journal! I'm transitioning into DevOps by October 25, 2025, and documenting every step here — from AWS certifications to CI/CD pipelines.
 
-[![Days](https://img.shields.io/badge/Days%20Into%20Journey-2%2F100-blue)](https://github.com/Rabaanee/zero-to-hero-devops)
+[![Days](https://img.shields.io/badge/Days%20Into%20Journey-3%2F100-blue)](https://github.com/Rabaanee/zero-to-hero-devops)
 [![Current Focus](https://img.shields.io/badge/Current%20Focus-AWS%20Cloud%20Practitioner-green)](https://github.com/Rabaanee/zero-to-hero-devops)
 [![Certifications](https://img.shields.io/badge/AWS%20Certifications-0%2F3-red)](https://github.com/Rabaanee/zero-to-hero-devops)
 
@@ -31,20 +31,20 @@ Become a certified, job-ready DevOps engineer in 100 days (July 18 – Oct 25, 2
 ## 📊 Progress Dashboard
 
 ```
-Week 1:  ███░░░░░░░ 30%  (AWS Cloud Practitioner - 7.5/40 hours completed)
+Week 1:  ███████░░░ 70%  (AWS Cloud Practitioner - 10.5/40 hours completed)
 Week 2:  ░░░░░░░░░░  0%  (Cloud Practitioner Certification)
 Week 3:  ░░░░░░░░░░  0%  (AWS Developer Associate)
 ...
-Overall: █░░░░░░░░░ 10%  (Day 2 of 100 - 7.5/700 total hours)
+Overall: █░░░░░░░░░ 15%  (Day 3 of 100 - 10.5/700 total hours)
 ```
 
 ## 📘 Daily Progress Logs
 
-### Current Week: AWS Cloud Practitioner Foundations
-- **Day 1 (July 18)**: ✅ AWS Cloud Quest complete (12/12 tasks) + course start (4 hours)
-- **Day 2 (July 19)**: ✅ Modules 1-6 complete! Networking, storage, compute mastered (3h 46m)
-- **Day 3 (July 20)**: ⏳ Databases, AI/ML, Security modules  
-- **Day 4 (July 21)**: ⏳ Complete remaining modules + first practice exam
+### Current Week: AWS Cloud Practitioner Sprint
+- **Day 1 (July 18)**: ✅ AWS Cloud Quest complete (12/12 tasks) + course modules 1-4 (4 hours)
+- **Day 2 (July 19)**: ✅ Modules 5-6 complete! Networking & storage mastered (3h 46m)
+- **Day 3 (July 20)**: ✅ Modules 7-9 + 42% Module 10! Security, databases, AI/ML + 2000m swim 🏊‍♂️ (3 hours)
+- **Day 4 (July 21)**: ⏳ Complete final modules + first practice exam
 
 [View detailed daily logs →](daily-progress/)
 
@@ -77,38 +77,40 @@ zero-to-hero-devops/
 
 ## 🎯 Current Week Goals
 - [x] Complete AWS Cloud Quest (12/12 tasks)
-- [x] Complete Modules 1-6: Compute, networking, storage fundamentals  
-- [ ] Complete Modules 7-13: Databases, security, monitoring, pricing
+- [x] Complete Modules 1-9: Core AWS services, security, databases, AI/ML
+- [x] Integrated fitness and nutrition for optimal learning
+- [ ] Complete Modules 10-13: Monitoring, pricing, migration, Well-Architected
 - [ ] Take first official practice exam
-- [ ] Schedule Cloud Practitioner exam *(DONE - July 28!)*
+- [x] Schedule Cloud Practitioner exam *(DONE - July 28!)*
 
 ## 📚 Learning Resources
 - **Courses**: AWS Skill Builder, AWS Cloud Quest
 - **Practice**: AWS Free Tier labs, Official practice exams
 - **Community**: AWS Discord, DevOps Reddit
-- **Books**: Phoenix Project, DevOps Handbook
+- **Fitness**: Swimming for mental clarity and physical health
+- **Nutrition**: High-protein meals + BCAA supplementation
 
 ## 🤝 Connect & Follow My Journey
 
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile) 
-- **Blog**: [Weekly DevOps Insights](https://yourblog.com)
-- **Twitter**: [@YourHandle](https://twitter.com/yourhandle)
+- **LinkedIn**: [Rabaanee Ahmed](https://www.linkedin.com/in/rabaanee-ahmed-832672240)
 
 *Have questions? Found this helpful? Drop a ⭐ and let's connect!*
 
 ## 📈 Key Metrics
-- **Study Hours**: 7.5/700 target hours (strong start!)
-- **Course Progress**: 6/13 modules complete (46%)
+- **Study Hours**: 10.5/700 target hours (excellent pace!)
+- **Course Progress**: 9.42/13 modules complete (72%)
 - **Cloud Quest**: 12/12 tasks complete ✅
-- **Practice Exams**: 0/5+ planned tests
+- **Security Foundation**: Module 9 complete (critical for exam) ✅
+- **Physical Fitness**: 2000m swim integration 🏊‍♂️
+- **Practice Exams**: Starting soon
 - **Projects Built**: 0/3 portfolio projects
 - **Certifications**: 0/3 AWS certifications
-- **Exam Scheduled**: July 28, 2025 🎯
+- **Exam Scheduled**: July 28, 2025 (8 days!) 🎯
 
 ---
 
-> *"The journey of a thousand miles begins with one step"* 
+> *"Success is the sum of small efforts repeated day in and day out"* 
 > 
-> Started: July 18, 2025 | Target: October 25, 2025 | Current: Day 2
+> Started: July 18, 2025 | Target: October 25, 2025 | Current: Day 3
 
-**Last Updated**: July 19, 2025
+**Last Updated**: July 20, 2025
